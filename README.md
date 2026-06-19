@@ -3,6 +3,4 @@
     How to use it
 </strong>
 <br>
-<code style="color: red">
-git pull https://github.com/CodeWithJarru/Clinic-Showcase-Template.git master
-</code>
+<code style="color: red">git pull https://github.com/CodeWithJarru/Clinic-Showcase-Template.git master</code>
